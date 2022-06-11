@@ -4,8 +4,6 @@
 
 [![Hi, I'm Duc Pham!](./assets/hi.svg)](https://git.io/typing-svg)
 
----
-
 # About me
 
 My name is Pham Hong Duc, a passionate web developer from Viet Nam.
@@ -23,8 +21,6 @@ Or
 <a href="https://www.linkedin.com/in/iamphduc/">
   <img alt="LinkedIn" width="30px" src="https://simpleicons.now.sh/linkedin/0A66C2" />
 </a>
-
----
 
 # Technologies & Tools
 
