@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="./assets/coding.gif" alt="Coding" width="500" />
+<img src="./assets/coding.gif" alt="Coding" width="450" />
 
 [![Hi, I'm Duc Pham!](./assets/hi.svg)](https://git.io/typing-svg)
 
-# About me
-
-My name is Pham Hong Duc, a passionate web developer from Viet Nam.
-
-I'm currently a student at Ton Duc Thang University.
+A passionate web developer from Viet Nam.
 
 You can reach me at iamphduc@gmail.com
 
