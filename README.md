@@ -9,9 +9,9 @@
 I'm an enthusiastic and ambitious **Fullstack Developer** from Viet Nam who love solving challenging problems.
 
 I use daily `.ts`, `.js`, `.py`
-- Backend: NestJS, Express.js
+- Backend: NestJS, Express.js, Kafka
 - Frontend:  Next.js, React
-- Databases: PostgreSQL, MongoDB
+- Databases: PostgreSQL, MongoDB, Redis
 
 ---
 
