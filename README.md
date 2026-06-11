@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="./assets/coding.gif" alt="Coding" width="250" />
-
 [![Hi, I'm Duc Pham!](./assets/hi.svg)](https://git.io/typing-svg)
 
 </div>
 
 I'm an enthusiastic and ambitious **Fullstack Developer** from Viet Nam who love solving challenging problems.
 
-I use daily `.ts`, `.js`, `.py`
+I use daily `.ts`, `.js`
 - Backend: NestJS, Express.js, Kafka
 - Frontend:  Next.js, React
 - Databases: PostgreSQL, MongoDB, Redis
