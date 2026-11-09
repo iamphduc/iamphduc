@@ -1,18 +1,7 @@
-<div align="center">
+Hi, I'm Duc Pham, a fullstack developer from Viet Nam.
 
-[![Hi, I'm Duc Pham!](./assets/hi.svg)](https://git.io/typing-svg)
+Currently working on [claude-pod](https://github.com/iamphduc/claude-pod) and [clawd-pet](https://github.com/iamphduc/clawd-pet).
 
-</div>
+Daily: TypeScript, NestJS, Next.js, PostgreSQL, Redis
 
-I'm an enthusiastic and ambitious **Fullstack Developer** from Viet Nam who love solving challenging problems.
-
-I use daily `.ts`, `.js`
-- Backend: NestJS, Express.js, Kafka
-- Frontend:  Next.js, React
-- Databases: PostgreSQL, MongoDB, Redis
-
----
-
-Connect with me to build something awesome together ✨
-- <a href="https://www.linkedin.com/in/iamphduc/">linkedin.com/in/iamphduc</a> 
-- [iamphduc@gmail.com ](mailto:iamphduc@gmail.com )
+[derekph.am](https://derekph.am) · [LinkedIn](https://www.linkedin.com/in/iamphduc/) · [Email](mailto:iamphduc@gmail.com)
