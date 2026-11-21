@@ -1,7 +1,7 @@
-Hi, I'm Duc Pham, a fullstack developer from Viet Nam.
+Hi everyone, I'm Duc, a software engineer originally from Vietnam and now in California.
 
-Currently working on [claude-pod](https://github.com/iamphduc/claude-pod) and [clawd-pet](https://github.com/iamphduc/clawd-pet).
+Currently working on [claude-pod](https://github.com/iamphduc/claude-pod) and [openaflow](https://github.com/alvionlabs/openaflow).
 
-Daily: TypeScript, NestJS, React, Next.js, PostgreSQL, MongoDB, Redis
+Daily stack: TypeScript, NestJS, React, Next.js, Astro, PostgreSQL, MongoDB
 
 [derekph.am](https://derekph.am) · [LinkedIn](https://www.linkedin.com/in/iamphduc/) · [Email](mailto:iamphduc@gmail.com)
